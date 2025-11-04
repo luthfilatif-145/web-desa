@@ -91,7 +91,7 @@ if (!isset($_SESSION['admin_login'])) {
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="../home.php" class="nav-link" target="blank">
+                            <a href="../home.php" class="nav-link">
                                 <i class="nav-icon fas fa-external-link-alt"></i>
                                 <p>Lihat Situs Publik</p>
                             </a>
